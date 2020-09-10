@@ -13,3 +13,8 @@ Theoretically works on Big Sur.
 | NetWork         | I1217v                    | normal，I have no WiFi and Bluetooth installed               |
 | USB             | 4\*USB2.0，2\*USB3.0 on board | customlized by kext                                          |
 | Serial/UUDI/MLB | generated                 | Highly recommend you to gen yours                            |
+
+## issues
+1、still some problems with usb，it can't detect my ipad. But Android Phones and USB devices works normally. 
+
+2、HD4600 still have gray screen porblems, restart the monitor can fix it. Only Martians know how to fix it. :(
