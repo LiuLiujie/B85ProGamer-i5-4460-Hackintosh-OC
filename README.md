@@ -18,3 +18,7 @@ Theoretically works on Big Sur.
 1、still some problems with usb，it can't detect my ipad. But Android Phones and USB devices works normally. 
 
 2、HD4600 still have gray screen porblems, restart the monitor can fix it. Only Martians know how to fix it. :(
+
+## Pictures
+![]("https://github.com/LiuLiujie/B85ProGamer-i5-4460-Hackintosh-OC/blob/master/pics/pic1.jpg")
+![]("https://github.com/LiuLiujie/B85ProGamer-i5-4460-Hackintosh-OC/blob/master/pics/pic2.jpg")
