@@ -19,7 +19,14 @@ Theoretically works on Big Sur.
 
 2、HD4600 still have gray screen porblems, restart the monitor can fix it. Only Martians know how to fix it. :(
 
+## Changelog
+### v1.0(2020-09-10)
+frist upload
+### v1.1(2020-09-10)
+add SSDT-GPRW.aml to fix the hibenation problem.
+
 ## Pictures
 ![img1](https://github.com/LiuLiujie/B85ProGamer-i5-4460-Hackintosh-OC/blob/master/pics/pic1.jpg)
 
 ![img2](https://github.com/LiuLiujie/B85ProGamer-i5-4460-Hackintosh-OC/blob/master/pics/pic2.jpg)
+
