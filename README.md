@@ -17,7 +17,11 @@ Theoretically works on Big Sur.
 ## issues
 1、still some problems with usb，it can't detect my ipad. But Android Phones and USB devices works normally. 
 
-2、HD4600 still have gray screen porblems, restart the monitor can fix it. Only Martians know how to fix it. :(
+2、HD4600 still have gray screen porblems, restart the monitor can reduce it. Only Martians know how to fix it. :(
+
+there is a way to reduce the gray screen posibility.
+
+在偏好设置-显示器-颜色中固定描述文件为macOS自带的可减缓灰屏，这样做之后灰屏仅在重启时出现
 
 ## Changelog
 ### v1.0(2020-09-10)
