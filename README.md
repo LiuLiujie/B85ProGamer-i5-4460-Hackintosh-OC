@@ -31,7 +31,7 @@ fix the iPad connection problems.
 
 update SMBIOS to iMac15,1 to support the macOS 11 Big Sur.
 
-##Credits
+## Credits
 @intel for CPUs.
 
 @apple for macOS.
