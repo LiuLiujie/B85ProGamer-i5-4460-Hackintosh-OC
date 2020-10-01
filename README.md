@@ -31,6 +31,14 @@ fix the iPad connection problems.
 
 update SMBIOS to iMac15,1 to support the macOS 11 Big Sur.
 
+##Credits
+@intel for CPUs.
+
+@apple for macOS.
+
+@acidanthera thanks for creating opencore.
+
+@ske1996 for leading me to Hackintosh.
 
 ## Pictures
 ![img1](https://github.com/LiuLiujie/B85ProGamer-i5-4460-Hackintosh-OC/blob/master/pics/pic1.jpg)
