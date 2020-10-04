@@ -1,5 +1,5 @@
 # B85ProGamer-i5-4460-Hackintosh-OC
-ASUS B85 Pro Gamer i5-4460 Hackintosh Opencore0.6.1 working at Catalina 10.15.6.
+ASUS B85 Pro Gamer i5-4460 Hackintosh Opencore0.6.1 working at Catalina 10.15.7.
 
 Theoretically works on Big Sur.
 
