@@ -26,12 +26,13 @@ there is a way to reduce the gray screen posibility.
 frist upload
 ### v1.1(2020-09-10)
 add SSDT-GPRW.aml to fix the hibenation problem.
-### v1.2(2020-10-01)(no release)
+### v1.2(2020-10-01)
 fix the iPad connection problems.
 
 update SMBIOS to iMac15,1 to support the macOS 11 Big Sur.
-### v1.2_special(2020-10-04)
+### v1.2_special(2020-10-04)(no release)
 add NVMe module into bios and use HP NVME EX920 as system disk.
+
 If you do the same, please search 'NVMeFix' in github and add this kext into your EFI.
 
 ## Credits
