@@ -26,7 +26,7 @@ there is a way to reduce the gray screen posibility.
 frist upload
 ### v1.1(2020-09-10)
 add SSDT-GPRW.aml to fix the hibenation problem.
-### v1.2(2020-10-01)
+### v1.2(2020-10-01)(no release)
 fix the iPad connection problems.
 
 update SMBIOS to iMac15,1 to support the macOS 11 Big Sur.
