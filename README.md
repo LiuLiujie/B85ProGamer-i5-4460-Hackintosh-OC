@@ -30,6 +30,9 @@ add SSDT-GPRW.aml to fix the hibenation problem.
 fix the iPad connection problems.
 
 update SMBIOS to iMac15,1 to support the macOS 11 Big Sur.
+### v1.2_special(2020-10-04)
+add NVMe module into bios and use HP NVME EX920 as system disk.
+If you do the same, please search 'NVMeFix' in github and add this kext into your EFI.
 
 ## Credits
 @intel for CPUs.
