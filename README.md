@@ -1,5 +1,5 @@
 # B85ProGamer-i5-4460-Hackintosh-OC
-ASUS B85 Pro Gamer i5-4460 Hackintosh Opencore0.6.1 working at Catalina 10.15.7.
+ASUS B85 Pro Gamer i5-4460 Hackintosh Opencore0.6.2 working at Catalina 10.15.7.
 
 Theoretically works on Big Sur.
 
@@ -28,6 +28,8 @@ frist upload
 add SSDT-GPRW.aml to fix the hibenation problem.
 ### v1.2(2020-10-01)
 fix the iPad connection problems.
+### v1.3(2020-10-06)
+update to oc0.6.2 and some kexts.
 
 update SMBIOS to iMac15,1 to support the macOS 11 Big Sur.
 ### v1.2_special(2020-10-04)(no release)
