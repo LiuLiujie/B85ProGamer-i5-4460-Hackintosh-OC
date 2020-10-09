@@ -36,6 +36,10 @@ add NVMe module into bios and use HP NVME EX920 as system disk.
 If you do the same, please search 'NVMeFix' in github and add this kext into your EFI.
 ### v1.3(2020-10-06)
 update to oc0.6.2 and some kexts.
+### v1.3.1(2020-10-09)(no release)
+allow reset nvram button in OC menu.
+
+only change in repo, no release, you can search AllowNvramReset in config.plist and open it.
 
 ## Credits
 @intel for CPUs.
