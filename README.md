@@ -3,7 +3,7 @@ ASUS B85 Pro Gamer i5-4460 Hackintosh Opencore0.6.2 working at Catalina 10.15.7.
 
 Theoretically works on Big Sur.
 
-## device list
+## Device list
 | Name            | Device                    | Info                                                         |
 |-----------------|---------------------------|--------------------------------------------------------------|
 | CPU             | i5-4460                                                      | normal frequency shift                                       |
@@ -14,7 +14,10 @@ Theoretically works on Big Sur.
 | USB             | 4\*USB2.0 and 2\*USB3.0 on board，<br />2\*USB2.0 and 2\*USB3.0 on case | customlized by kext                                          |
 | Serial/UUDI/MLB | generated                                                    | But highly recommend you to gen yours                        |
 
-## issues
+## BIOS Setting
+<img src="https://github.com/LiuLiujie/B85ProGamer-i5-4460-Hackintosh-OC/blob/master/pics/BIOS%20Setting.png" width = "185.5" height = "336" alt="" align=center />
+
+## Issues
 1、HD4600 still have gray screen porblems, restart the monitor can reduce it. Only Martians know how to fix it. :(
 
 there is a way to reduce the gray screen posibility.
