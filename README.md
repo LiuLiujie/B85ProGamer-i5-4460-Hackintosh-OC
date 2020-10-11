@@ -15,7 +15,9 @@ Theoretically works on Big Sur.
 | Serial/UUDI/MLB | generated                                                    | But highly recommend you to gen yours                        |
 
 ## BIOS Setting
-<img src="https://github.com/LiuLiujie/B85ProGamer-i5-4460-Hackintosh-OC/blob/master/pics/BIOS%20Setting.png" width = "185.5" height = "336" alt="" align=center />
+<img src="https://github.com/LiuLiujie/B85ProGamer-i5-4460-Hackintosh-OC/blob/master/pics/bios1.png" width = "291.5" height = "407.5" alt="" align=center />
+
+<img src="https://github.com/LiuLiujie/B85ProGamer-i5-4460-Hackintosh-OC/blob/master/pics/bios2.png" width = "118" height = "66.5" alt="" align=center />
 
 ## Issues
 1、HD4600 still have gray screen porblems, restart the monitor can reduce it. Only Martians know how to fix it. :(
