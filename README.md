@@ -14,7 +14,7 @@ Theoretically works on Big Sur.
 | USB             | 4\*USB2.0 and 2\*USB3.0 on board，<br />2\*USB2.0 and 2\*USB3.0 on case | customlized by kext                                          |
 | Serial/UUDI/MLB | generated                                                    | But highly recommend you to gen yours                        |
 
-## BIOS Setting
+## BIOS Settings
 <img src="https://github.com/LiuLiujie/B85ProGamer-i5-4460-Hackintosh-OC/blob/master/pics/bios1.png" width = "291.5" height = "407.5" alt="" align=center />
 
 <img src="https://github.com/LiuLiujie/B85ProGamer-i5-4460-Hackintosh-OC/blob/master/pics/bios2.png" width = "118" height = "66.5" alt="" align=center />
@@ -43,6 +43,8 @@ If you do the same, please search 'NVMeFix' in github and add this kext into you
 update to oc0.6.2 and some kexts.
 ### v1.3.1(2020-10-09)(no release)
 allow reset nvram button in OC menu.
+### v1.4(2020-10-16)
+fix sleep problem, thanks @Wyeme
 
 only change in repo, no release, you can search AllowNvramReset in config.plist and open it.
 
