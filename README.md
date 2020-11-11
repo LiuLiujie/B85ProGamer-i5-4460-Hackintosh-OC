@@ -1,5 +1,5 @@
 # B85ProGamer-i5-4460-Hackintosh-OC
-ASUS B85 Pro Gamer i5-4460 Hackintosh Opencore0.6.2 working at Catalina 10.15.7.
+ASUS B85 Pro Gamer i5-4460 Hackintosh Opencore0.6.3 working at Catalina 10.15.7.
 
 Theoretically works on Big Sur.
 
@@ -20,12 +20,20 @@ Theoretically works on Big Sur.
 <img src="https://github.com/LiuLiujie/B85ProGamer-i5-4460-Hackintosh-OC/blob/master/pics/bios2.png" width = "118" height = "66.5" alt="" align=center />
 
 ## Issues
-1、HD4600 still have gray screen porblems, restart the monitor can reduce it. Only Martians know how to fix it. :(
+(Not found for mine)
 
-there is a way to reduce the gray screen posibility.
+## common Issus
+1、Gray screen when restart the macOS
 
-在偏好设置-显示器-颜色中固定描述文件为macOS自带的可减缓灰屏，这样做之后灰屏仅在重启时出现
+Try to fix the Display colors and calibration in preference. Restart the monitor can fix it.
 
+2、Hibernation or Sleep problem
+
+Follow the BIOS Settings above can always fix it.If can't, please check the log and fix yourself.
+
+Somebody with dGPU said he can't wake the system from sleep by mouse or keyboard. But can wake it by Power Button on case.
+
+(I don't have dGPU...)
 ## Changelog
 ### v1.0(2020-09-10)
 frist upload
