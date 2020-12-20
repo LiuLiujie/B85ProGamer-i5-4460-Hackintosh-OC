@@ -31,7 +31,8 @@ Follow the BIOS Settings above can always fix it.If can't, please check the log 
 
 Somebody with dGPU said he can't wake the system from sleep by mouse or keyboard. But can wake it by Power Button on case.
 
-(I don't have dGPU...)
+Update:Now I have dGPU but hibernation or sleep are normal.
+
 ## Changelog
 ### v1.0(2020-09-10)
 frist upload
