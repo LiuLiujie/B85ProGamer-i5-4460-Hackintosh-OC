@@ -1,13 +1,11 @@
 # B85ProGamer-i5-4460-Hackintosh-OC
-ASUS B85 Pro Gamer i5-4460 Hackintosh Opencore0.6.3 working at Catalina 10.15.7.
-
-Theoretically works on Big Sur.
+ASUS B85 Pro Gamer i5-4460 Hackintosh Opencore0.6.4 working at Big Sur 11.1.
 
 ## Device list
-| Name            | Device                    | Info                                                         |
-|-----------------|---------------------------|--------------------------------------------------------------|
 | CPU             | i5-4460                                                      | normal frequency shift                                       |
+| --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | iGPU            | HD4600                                                       | 4K decode normal，framebuffer injected，HEVC decode can‘t use |
+| dGPU            | RX560D                                                       | Normal                                                       |
 | Audio           | ACL1150                                                      | layout-id：5，injected，3.5 on the case normal, others no test |
 | NetWork         | I1217v                                                       | normal                                                       |
 | Wifi&Bluetooth  | FV-T919                                                      | BCM94360CD                                                   |
@@ -57,10 +55,14 @@ only change in repo, no release, you can search AllowNvramReset in config.plist 
 fix sleep problem, thanks @Wyeme
 ### v1.5(2020-11-07)
 update to oc0.6.3 and some kexts
+### v1.6(2020-12-20)
+update to oc0.6.4 to OTA big sur
 ## Credits
 @intel for CPUs.
 
 @apple for macOS.
+
+@AMD for dGPU
 
 @acidanthera thanks for creating opencore.
 
