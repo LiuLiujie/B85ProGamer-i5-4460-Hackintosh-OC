@@ -5,7 +5,7 @@ ASUS B85 Pro Gamer i5-4460 Hackintosh Opencore0.6.4 working at Big Sur 11.1.
 | CPU             | i5-4460                                                      | normal frequency shift                                       |
 | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | iGPU            | HD4600                                                       | 4K decode normal，framebuffer injected，HEVC decode can‘t use |
-| dGPU            | RX560D                                                       | Normal                                                       |
+| dGPU            | RX560D                                                       | Normal(HD4600 doesn't support HEVC)                          |
 | Audio           | ACL1150                                                      | layout-id：5，injected，3.5 on the case normal, others no test |
 | NetWork         | I1217v                                                       | normal                                                       |
 | Wifi&Bluetooth  | FV-T919                                                      | BCM94360CD                                                   |
