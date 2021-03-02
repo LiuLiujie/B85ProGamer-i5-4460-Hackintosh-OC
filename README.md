@@ -1,5 +1,5 @@
 # B85ProGamer-i5-4460-Hackintosh-OC
-ASUS B85 Pro Gamer i5-4460 Hackintosh Opencore0.6.4 working at Big Sur 11.1.
+ASUS B85 Pro Gamer i5-4460 Hackintosh Opencore0.6.7 working at Big Sur 11.2.2.
 
 ## Device list
 | CPU             | i5-4460                                                      | normal frequency shift                                       |
@@ -58,6 +58,8 @@ fix sleep problem, thanks @Wyeme
 update to oc0.6.3 and some kexts
 ### v1.6(2020-12-20)
 update to oc0.6.4 to OTA big sur
+### v1.7(2020-03-02)
+update to oc0.6.7
 ## Credits
 @intel for CPUs.
 
