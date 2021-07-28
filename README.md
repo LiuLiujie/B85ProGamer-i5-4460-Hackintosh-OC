@@ -1,3 +1,4 @@
+# I seldom use this motherboard so this repo is archived
 # B85ProGamer-i5-4460-Hackintosh-OC
 ASUS B85 Pro Gamer i5-4460 Hackintosh Opencore0.6.7 working at Big Sur 11.2.2.
 
